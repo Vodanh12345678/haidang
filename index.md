@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Hai Dang
 
 You can use the [editor on GitHub](https://github.com/Vodanh12345678/haidang/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
